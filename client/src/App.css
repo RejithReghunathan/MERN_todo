@@ -1,4 +1,10 @@
 .app-container{
-  max-width: 35rem;
+  max-width: 50rem;
   margin: auto;
+}
+.h3-class{
+  float:left;
+}
+.ch-clss{
+  float:right;
 }
